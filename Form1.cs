@@ -30,11 +30,6 @@ namespace TelefonskiImenik
         {
             InitializeComponent();
 
-            //this.Hide();
-            //Form2 myForm2 = new Form2();
-            //myForm2.StartPosition = FormStartPosition.Manual;
-            //myForm2.Location = new Point(this.Bounds.Right, this.Bounds.Top);
-            //myForm2.Show();
             
         }
         private void label1_Click(object sender, EventArgs e)
