@@ -25,10 +25,10 @@ namespace TelefonskiImenik
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //this.Close();
-            //Form1 form1 = new Form1();
-            //form1.Show();
            
+            Form1 form1 = new Form1();
+            form1.Show();
+            this.Hide();
         }
     }
 }
